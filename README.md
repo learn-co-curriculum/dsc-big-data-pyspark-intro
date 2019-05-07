@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 38 and why they'll be important to you as a data scientist.
+In this section, you will be introduced to the idea of Big Data and the tools Data Scientists use to manage it.
 
 ## Objectives
 You will be able to:
@@ -36,8 +36,12 @@ Resilient Distributed Datasets (RDDs) are the core concept in PySpark. RDDs are 
 
 ### Word Count with Map-Reduce
 
-At the end of the day, you'll use Map-Reduce to solve a basic NLP task: counting stop words, and keeping word frequency.
+You'll use Map-Reduce to solve a basic NLP task where you compare attributes of different authors of various texts.
+
+### Machine Learning with Spark
+
+After you've solved a basic Map-Reduce problem, you will learn about employing the machine learning modules of PySpark. You will perform a classification and clustering problem.
 
 ## Summary
 
-In this section, you'll learn the foundations of NLP and different technicues to make a computer understand text!
+In this section, you'll learn the foundations of Big Data and how to manage it with Spark!
