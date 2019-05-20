@@ -40,7 +40,7 @@ You'll use Map-Reduce to solve a basic NLP task where you compare attributes of 
 
 ### Machine Learning with Spark
 
-After you've solved a basic Map-Reduce problem, you will learn about employing the machine learning modules of PySpark. You will perform a classification and clustering problem.
+After you've solved a basic Map-Reduce problem, you will learn about employing the machine learning modules of PySpark. You will perform both a regression and classification problem and get the chance to build a full parallelizable data science pipeline that can scale to work with big data.
 
 ## Summary
 
