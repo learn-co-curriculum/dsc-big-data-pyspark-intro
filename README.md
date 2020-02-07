@@ -1,12 +1,11 @@
-
 # Apache Spark - Introduction
 
 ## Introduction
-In this section, you will be introduced to the idea of Big Data and the tools Data Scientists use to manage it.
+In this section, you will be introduced to the idea of big data and the tools data scientists use to manage it.
 
 ## Big Data in PySpark
 
-Big Data is undoubtedly one of the most hyped terms in data science these days. Big Data Analytics involves dealing with data that is big in volume and high in variety and velocity, making it challenging for data scientists to run their routine analysis activities. In this section, you'll learn the basics of dealing with big data through parallel and distributed computing. In particular, you will be introduced to Apache Spark, an an open-source distributed cluster-computing framework. You'll learn how to use the popular Apache Spark Python API, **PySpark**.
+Big data is undoubtedly one of the most hyped terms in data science these days. Big data analytics involves dealing with data that is large in volume and high in variety and velocity, making it challenging for data scientists to run their routine analysis activities. In this section, you'll learn the basics of dealing with big data through parallel and distributed computing. In particular, you will be introduced to Apache Spark, an open-source distributed cluster-computing framework. You'll learn how to use the popular Apache Spark Python API, **PySpark**.
 
 ### Parallel and Distributed Computing with MapReduce
 
@@ -31,7 +30,7 @@ Resilient Distributed Datasets (RDDs) are the core concept in PySpark. RDDs are 
 
 ### Word Count with MapReduce
 
-You'll use MapReduce to solve a basic NLP task where you compare attributes of different authors of various texts.
+You'll use MapReduce to solve a basic NLP task where you compare the attributes of different authors of various texts.
 
 ### Machine Learning with Spark
 
